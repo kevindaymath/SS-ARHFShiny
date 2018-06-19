@@ -1,0 +1,53 @@
+GEOID,STUSPS,NAME,Counties,TotNum,ApproxNum,Dividing,DividingMany,Single,SingleMany,Defined,Info,Map
+1,AL,Alabama,67,11,6.090909091,No,,Yes,2,Public Health Areas,http://www.adph.org/administration/Default.asp?id=505,http://www.adph.org/administration/assets/publichealthareas.pdf
+2,AK,Alaska,29,6,4.833333333,No,,Yes,3,Alaska BRFSS Regions,http://dhss.alaska.gov/dph/Chronic/Pages/brfss/regions.aspx,http://dhss.alaska.gov/dph/Chronic/Pages/brfss/regions.aspx
+4,AZ,Arizona,15,5,3,Yes,2,No,,AHEC Regional Centers,http://azahec.uahs.arizona.edu/,http://azahec.uahs.arizona.edu/sites/default/files/map.png
+5,AR,Arkansas,75,5,15,No,,No,,PHRs,http://www.healthy.arkansas.gov/programsServices/GIS/Documents/PHRegions.pdf,http://www.healthy.arkansas.gov/programsServices/GIS/Documents/PHRegions.pdf
+6,CA,California,58,9,6.444444444,No,,No,,California Department of Finance,http://www.calrecycle.ca.gov/usedoil/Data/CensusRegion.htm,http://www.calrecycle.ca.gov/usedoil/Data/CensusRegion.htm
+8,CO,Colorado,64,21,3.047619048,No,,Yes,10,Health Statistics Regions (HSR),http://www.chd.dphe.state.co.us/HealthDisparitiesProfiles/dispHealthProfiles.aspx,https://www.colorado.gov/pacific/sites/default/files/Health%20Statistics%20Region%20Map%20Key.pdf
+9,CT,Connecticut,8,4,2,Yes,3,Yes,5,AHEC Regional Centers,http://www.publichealth.uconn.edu/ahec-regional-centers.html,http://www.publichealth.uconn.edu/ahec-regional-centers.html
+10,DE,Delaware,3,1,3,No,,No,,Whole State as Region,http://www.astho.org/Profile/Volume-Three/State-Profiles/Delaware/,
+11,DC,District of Columbia,1,1,1,No,,No,,Whole State as Region,https://planning.dc.gov/page/wards-district-columbia,https://planning.dc.gov/page/wards-district-columbia
+12,FL,Florida,67,11,6.090909091,No,,Yes,1,Local Health Councils,http://www.floridahealth.gov/%5c/provider-and-partner-resources/health-councils/_documents/LHC%20Directory%20Sept%202014.pdf,http://www.floridahealth.gov/%5c/provider-and-partner-resources/health-councils/_documents/LHC%20Directory%20Sept%202014.pdf
+13,GA,Georgia,159,18,8.833333333,No,,Yes,4,Distribution of funds,https://dph.georgia.gov/public-health-districts,https://dph.georgia.gov/public-health-districts
+15,HI,Hawaii,5,1,5,No,,No,,Whole State as Region,http://www.astho.org/Profile/Volume-Three/State-Profiles/Hawaii/,
+16,ID,Idaho,44,7,6.285714286,No,,No,,PHDs authorized by the State,http://www.idahopublichealthdistricts.org/,http://healthandwelfare.idaho.gov/Health/HealthDistricts/tabid/97/Default.aspx
+17,IL,Illinois,102,7,14.57142857,No,,Yes,1,State has decentralized relationship with local health departments,http://app.idph.state.il.us/share/idphregions.htm,http://app.idph.state.il.us/share/idphregions.htm
+18,IN,Indiana,92,10,9.2,No,,No,,PHDs (Public Health Preparedness Districts),http://www.in.gov/isdh/17944.htm,http://www.in.gov/isdh/17944.htm
+19,IA,Iowa,99,6,16.5,No,,No,,Public Health Regions,https://idph.iowa.gov/Portals/1/Files/LPHS/Regional%20Map.pdf,https://idph.iowa.gov/Portals/1/Files/LPHS/Regional%20Map.pdf
+20,KS,Kansas,105,6,17.5,No,,No,,KDHE District Office Boundaries,http://kic.kdheks.gov/OHA/ksmap.html#district,http://kic.kdheks.gov/OHA/ksmap.html#district
+21,KY,Kentucky,120,4,30,No,,No,,OIG Regions (Enforcements),http://chfs.ky.gov/os/oig/regions.htm,http://chfs.ky.gov/NR/rdonlyres/F8E72BB3-CC78-45C8-802F-62A1D0B1F1A6/0/RegionalMap.doc
+22,LA,Louisiana,64,9,7.111111111,No,,No,,LDH Regions (Louisiana Department of Health),http://www.dhh.louisiana.gov/index.cfm/page/2,http://www.dhh.louisiana.gov/assets/docs/OrgCharts/RegionMap.jpg
+23,ME,Maine,16,8,2,No,,Yes,3,PHDs,http://www.maine.gov/dhhs/mecdc/public-health-systems/lphd/,http://maine.gov/dhhs/ocfs/cbhs/staff/maps/district-map.html
+24,MD,Maryland,24,5,4.8,No,,No,,Health Care Commission,https://healthcarequality.mhcc.maryland.gov/Article/View/f19b30dc-81f5-4700-a2cf-0eef8f520510,https://healthcarequality.mhcc.maryland.gov/Images/hpdisgraph22016.png
+25,MA,Massachusetts,14,6,2.333333333,Yes,6,No,,EOHHS Regions (Executive Office of Health and Human Services),http://www.mass.gov/eohhs/gov/departments/dph/programs/admin/comm-office/regional-health-offices/,https://matracking.ehs.state.ma.us/eohhs_regions/eohhs_regions.html
+26,MI,Michigan,83,8,10.375,No,,No,,Michigan Health Assessment,http://www.malph.org/state-michigan-health-assessment,http://www.malph.org/state-michigan-health-assessment
+27,MN,Minnesota,87,8,10.875,No,,No,,SCHSAC Regions,http://www.health.state.mn.us/divs/opi/gov/maps/docs/schsac.pdf,http://www.health.state.mn.us/divs/opi/gov/maps/docs/schsac.pdf
+28,MS,Mississippi,82,9,9.111111111,No,,No,,PHDs,http://msdh.ms.gov/msdhsite/_static/resources/3468.pdf,https://mississippitoday.org/2017/05/18/six-public-health-district-offices-are-closing/
+29,MO,Missouri,115,9,12.77777778,No,,No,,Health Reporting Regions,http://www.astho.org/Profile/Volume-Three/State-Profiles/Missouri/,http://health.mo.gov/data/gis/pdf/map_ReportingRegions.pdf
+30,MT,Montana,56,5,11.2,No,,No,,PHRs,http://www.mtpha.com/?page=about,http://www.mtpha.com/page/regionmap
+31,NE,Nebraska,93,19,4.894736842,No,,Yes,3,Local District Health Departments,http://dhhs.ne.gov/publichealth/Pages/puh_oph_lhd.aspx,http://dhhs.ne.gov/publichealth/Documents/LHDMap.pdf
+32,NV,Nevada,17,4,4.25,No,,No,,Economic Development Regions,https://www.nvenergy.com/business/economicdevelopment/regional/index.cfm,
+33,NH,New Hampshire,10,1,10,No,,No,5,Regional Public Health Networks (RPHNs),http://nhphn.org/,http://nhphn.org/
+34,NJ,New Jersey,21,3,7,No,,No,,Department of Transportation Regions,http://www.state.nj.us/transportation/business/row/offices.shtm,
+35,NM,New Mexico,33,4,8.25,No,,No,,Department of Health PHRs,https://nmhealth.org/about/phd/region/,https://nmhealth.org/about/phd/region/
+36,NY,New York,62,4,15.5,No,,No,,DOH Regions,https://www.urmc.rochester.edu/emergency-preparedness.aspx,https://www.health.ny.gov/environmental/water/drinking/doh_pub_contacts_map.htm
+37,NC,North Carolina,100,10,10,No,,No,,Distribution of funds,http://publichealth.nc.gov/lhd/,http://publichealth.nc.gov/lhd/
+38,ND,North Dakota,53,8,6.625,No,,No,,Local Public Health Units (PHDs and District Health Units),https://www.nd.gov/dhs/locations/regionalhsc/,https://www.nd.gov/dhs/locations/regionalhsc/
+39,OH,Ohio,88,5,17.6,No,,No,,Local Health Districts,https://www.odh.ohio.gov/localhealthdistricts/lhddirectory.aspx,https://odhgateway.odh.ohio.gov/LHDInformationSystem/Directory/GetLHDReport
+40,OK,Oklahoma,77,8,9.625,No,,Yes,1,PHRs (Regional Response System),https://www.ok.gov/homeland/regional_map/region_map.php,https://www.ok.gov/homeland/regional_map/region_map.php
+41,OR,Oregon,36,7,5.142857143,No,,No,,Prepardness & Response Program Liasons and Regions,http://www.oregon.gov/oha/ph/ProviderPartnerResources/LocalHealthDepartmentResources/Documents/orientation/administrators/hspr.pdf,http://www.oregon.gov/oha/ph/ProviderPartnerResources/LocalHealthDepartmentResources/Documents/orientation/administrators/hspr.pdf
+42,PA,Pennsylvania,67,6,11.16666667,No,,No,,PHDs,http://www.health.pa.gov/Pages/default.aspx#.WUb9AhPytok,http://www.health.state.pa.us/pdf/hpa/stats/brf-rd/map.pdf
+44,RI,Rhode Island,5,1,5,No,,No,,Whole State as Region,http://www.astho.org/Profile/Volume-Three/State-Profiles/Rhode-Island/,
+45,SC,South Carolina,46,4,11.5,No,,No,,DHEC Locations,http://www.scdhec.gov/Agency/Locations/mindex.htm,http://www.scdhec.gov/Agency/Locations/mindex.htm
+46,SD,South Dakota,66,4,16.5,No,,No,,Regional Planning Districts,https://doh.sd.gov/providers/Preparedness/Hospital-Preparedness/System/Planning.aspx,https://doh.sd.gov/providers/assets/RegionalPlanningDistricts.pdf
+47,TN,Tennessee,95,14,6.785714286,No,,Yes,6,PHRs (Health Department Regions),https://www.tn.gov/health/topic/localdepartments,https://hit.health.tn.gov/tnmap/print_tnmap.htm
+48,TX,Texas,254,11,23.09090909,No,,,,Public Health Regions,https://www.dshs.texas.gov/chs/info/info_txco.shtm,https://www.dshs.texas.gov/chs/info/info_txco.shtm
+49,UT,Utah,29,13,2.230769231,No,,Yes,7,Local Health Departments,https://deq.utah.gov/Topics/Resources/healthdptsdw.htm,https://deq.utah.gov/Topics/Resources/healthdptsdw.htm
+50,VT,Vermont,14,1,14,No,,Yes,5,Whole State as Region,http://www.astho.org/Profile/Volume-Three/State-Profiles/Vermont/,
+51,VA,Virginia,133,35,3.8,No,,Yes,9,Local Health Districts,http://www.vdh.virginia.gov/local-health-districts/,http://www.vdh.virginia.gov/local-health-districts/
+53,WA,Washington,39,9,4.333333333,No,,Yes,2,PHRs,http://www.doh.wa.gov/AboutUs/PublicHealthSystem/RegionalHealthcareCoalitionLeads,http://www.wsha.org/wp-content/uploads/Public-Health-Emergency-Planning-Region-Map-24x36.pdf
+54,WV,West Virginia,55,8,6.875,No,,Yes,1,PHRs,http://www.dhhr.wv.gov/healthprep/programs/publichealth/Pages/default.aspx,http://www.dhhr.wv.gov/healthprep/Documents/West%20Virginia%20Public%20Health%20Regions.pdf
+55,WI,Wisconsin,72,5,14.4,No,,No,,DHS Regions (Department of Health Services),https://www.dhs.wisconsin.gov/aboutdhs/regions.htm,https://www.dhs.wisconsin.gov/aboutdhs/regions.htm
+56,WY,Wyoming,23,5,4.6,No,,No,,"Department of Employment, Research & Planning Regions",https://doe.state.wy.us/lmi/0406/map.htm,
+72,PR,Puerto Rico,78,1,78,No,,No,,Whole State as Region,http://www.salud.gov.pr/Sobre-tu-Salud/Pages/Preparate-para-Emergencias.aspx,http://www.salud.gov.pr/Sobre-tu-Salud/PublishingImages/Pages/Preparate-para-Emergencias/mapa.png
